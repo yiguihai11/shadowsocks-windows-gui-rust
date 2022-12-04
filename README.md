@@ -9,6 +9,3 @@ Shadowsocks Windows GUI in Rust
 ### Thanks
 1. shadowsocks-rust https://github.com/shadowsocks/shadowsocks-rust
 2. native-windows-gui https://github.com/gabdube/native-windows-gui
-
-
-
